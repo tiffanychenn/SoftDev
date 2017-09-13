@@ -1,0 +1,3 @@
+[submodule "02Work"]
+	path = 02Work
+	url = git@github.com:tiffanychenn/02Work.git
