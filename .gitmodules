@@ -1,3 +1,6 @@
 [submodule "02Work"]
 	path = 02Work
 	url = git@github.com:tiffanychenn/02Work.git
+[submodule "03_occupation"]
+	path = 03_occupation
+	url = git@github.com:tiffanychenn/03_occupation.git
