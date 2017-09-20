@@ -4,3 +4,6 @@
 [submodule "03_occupation"]
 	path = 03_occupation
 	url = git@github.com:tiffanychenn/03_occupation.git
+[submodule "04_lemmeFlaskUSmth"]
+	path = 04_lemmeFlaskUSmth
+	url = git@github.com:tiffanychenn/04_lemmeFlaskUSmth.git
