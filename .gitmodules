@@ -7,3 +7,6 @@
 [submodule "02_work"]
 	path = 02_work
 	url = git@github.com:tiffanychenn/02_work.git
+[submodule "05_occupationsTable"]
+	path = 05_occupationsTable
+	url = https://github.com/aboblin/Work05.git
