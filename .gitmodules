@@ -10,3 +10,15 @@
 [submodule "05_occupationsTable"]
 	path = 05_occupationsTable
 	url = https://github.com/aboblin/Work05.git
+[submodule "06_echo"]
+	path = 06_echo
+	url = git@github.com:tiffanychenn/06_echo.git
+[submodule "07_login"]
+	path = 07_login
+	url = git@github.com:tiffanychenn/07_login.git
+[submodule "08_login"]
+	path = 08_login
+	url = git@github.com:tiffanychenn/08_login.git
+[submodule "09_sqlite"]
+	path = 09_sqlite
+	url = git@github.com:tiffanychenn/09_sqlite.git
