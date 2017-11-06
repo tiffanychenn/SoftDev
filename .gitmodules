@@ -31,3 +31,6 @@
 [submodule "11_css"]
 	path = 11_css
 	url = git@github.com:tiffanychenn/11_css.git
+[submodule "12_foundation"]
+	path = 12_foundation
+	url = git@github.com:MashaZorin/12_foundation_stuff.git
