@@ -25,3 +25,9 @@
 [submodule "10_db"]
 	path = 10_db
 	url = git@github.com:GordonLei/roughDev-10db.git
+[submodule "CleMenTIne_Storytellers"]
+	path = CleMenTIne_Storytellers
+	url = git@github.com:MashaZorin/CleMenTIne-Storytellers.git
+[submodule "11_css"]
+	path = 11_css
+	url = git@github.com:tiffanychenn/11_css.git
